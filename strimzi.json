@@ -1,5 +1,9 @@
 {
-    "CN": "StrimziCA",
+    "CN": "kafka.strimzi.io",
+    "hosts": [
+           "*.127.0.0.1.nip.io"
+    ],
+
     "names": [
         {
             "C":  "CZ",
